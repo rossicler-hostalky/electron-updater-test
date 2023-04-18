@@ -31,6 +31,11 @@
     "linux": {
       "category": "your.app.category.type",
       "target": "AppImage"
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "rossicler-hostalky",
+      "repo": "electron-updater-test"
     }
   }
 }
